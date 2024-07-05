@@ -22,9 +22,10 @@
 <h2 align="center">🔗 Connect with me 🔗</h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/dhruv-shah-296194303">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/dhruv-shah-296194303">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
   <a href="https://kaggle.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
