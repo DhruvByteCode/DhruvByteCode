@@ -8,8 +8,6 @@
     
 🔭 I’m currently working on *Full Stack Projects*
 
-🌱 I’m currently learning *Tailwind CSS, React JS and Flask*
-
 📫 Reach me out at *dhruvshah8112002@gmail.com*
 
 💬 Ask me anything regarding my work and code [here](https://github.com/DhruvByteCode/issues)<br>   (*Please tag me @DhruvByteCode in your comment*).
