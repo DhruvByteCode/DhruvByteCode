@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devanshi+Bavaria!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Shah!;" />
 </h1>
 <h4 align="center">Enthusiastic CSE graduate with a passion for Data Structures & Algorithms, Full Stack Developement and Machine Learning.</h4>
 
@@ -10,13 +10,13 @@
 
 🌱 I’m currently learning *Tailwind CSS, React JS and Flask*
 
-📫 Reach me out at *bavariadevanshi@gmail.com*
+📫 Reach me out at *dhruvshah8112002@gmail.com*
 
-💬 Ask me anything regarding my work and code [here](https://github.com/Dev-Khant/Devubavariaa/issues)<br>   (*Please tag me @Devubavariaa in your comment*).
+💬 Ask me anything regarding my work and code [here](https://github.com/DhruvByteCode/issues)<br>   (*Please tag me @DhruvByteCode in your comment*).
 
 📄 Check out my [*resume*](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
 
-➡ Check out my [*Portfolio*](https://arunima-barik-portfolio.vercel.app/)
+➡ Check out my [*Portfolio*](https://dhruvbytecode.github.io/Portfolio/)
 
 </div>
 
@@ -45,8 +45,8 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,SAP,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,,mongodb,C,C++,C#,java,mysql" /><br>
 </div>
 
 <br/>
