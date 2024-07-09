@@ -27,7 +27,7 @@
   </a>
 
  
-  <a href="https://www.leetcode.com/arunimabarik">
+  <a href="https://leetcode.com/u/dhruv81102/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </div>
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
-    <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" width="50px" height="50px"/>
+    <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" width="60px" height="60px"/>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,C,C++,C#,java,mysql" /><br>
 </div>
 
