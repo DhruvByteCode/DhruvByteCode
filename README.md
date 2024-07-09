@@ -12,7 +12,7 @@
 
 💬 Ask me anything regarding my work and code [here](https://github.com/DhruvByteCode/issues)<br>   (*Please tag me @DhruvByteCode in your comment*).
 
-📄 Check out my [*resume*](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
+📄 Check out my [*resume*]()
 
 ➡ Check out my [*Portfolio*](https://dhruvbytecode.github.io/Portfolio/)
 
@@ -26,15 +26,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <a href="https://kaggle.com/arunimabarik">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/arunimabarik">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/arunimabarik">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
+ 
   <a href="https://www.leetcode.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
@@ -45,6 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg"/>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,C,C++,C#,java,mysql" /><br>
 </div>
 
