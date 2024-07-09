@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
-    <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg"/>
+    <img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" width="50px" height="50px"/>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,C,C++,C#,java,mysql" /><br>
 </div>
 
