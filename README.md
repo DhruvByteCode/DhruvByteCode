@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
     
-🔭 I’m currently working on *Full Stack Projects*
+🔭 Currently engaged in *Full Stack Projects*, where I develop comprehensive web applications, and also delve into *machine learning* to build predictive models and data-driven insights. Additionally, I explore and refine *LLM AI technologies* to advance natural language understanding and generation capabilities
 
 📫 Reach me out at *dhruvshah8112002@gmail.com*
 
